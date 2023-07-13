@@ -21,24 +21,17 @@
 
 4. Then merge all the Dataframes into a single DataFrame.
 
-5. Then convert the merged DataFrame to CSV file.
+5. In Tableau, I created a bar chart to analyze the Age distribution of leads.
 
-6. Then upload that merged Datset into Tableau for creating a visualization.
+6. Created a bar chart to analyze Lead gen source by no.of leads.
 
-7. In Tableau, I created a bar chart to analyze the Age distribution of leads.
+7. Created a pie chart to analyze the Education Background of Lead applicants.
 
-8. Created a bar chart to analyze Lead gen source by no.of leads.
+8. Created a pie chart to analyze the Gender distribution of Leads.
 
-9. Created a pie chart to analyze the Education Background of Lead applicants.
+9. Created a table to analyze Lead stage Distribution.
 
-10. Created a pie chart to analyze the Gender distribution of Leads.
-
-11. Created a table to analyze Lead stage Distribution.
-
-12. Created a table to analyze the data of Langauge and City per Leads.
-
-13. By joining all visualizations I created a Dashboard.
-
+10. Created a table to analyze the data of Langauge and City per Leads.
 
 <br>
 <h2>
