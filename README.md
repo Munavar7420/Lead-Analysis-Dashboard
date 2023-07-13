@@ -45,5 +45,5 @@
 <p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif"/></p> Dashboard
 </h2>
 <br>
-<p><img align="left" height=35 width=35 src="https://github.com/Munavar7420/Lead-Analysis-Dashboard/blob/main/Dashboard%201.png?raw=true"/></p> 
+<p><img  src="https://github.com/Munavar7420/Lead-Analysis-Dashboard/blob/main/Dashboard%201.png?raw=true"/></p> 
  
