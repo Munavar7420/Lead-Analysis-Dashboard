@@ -23,11 +23,11 @@
 
 5. In Tableau, I created a bar chart to analyze the Age distribution of leads.
 
-6. Created a bar chart to analyze Lead gen source by no.of leads.
+6. Created a pie chart to analyze Lead gen source by no.of leads.
 
-7. Created a pie chart to analyze the Education Background of Lead applicants.
+7. Created a bar chart to analyze Demo watched Percentage
 
-8. Created a pie chart to analyze the Gender distribution of Leads.
+8. Created a stacked bar chart to analyze the lead by senior Manager and junior manager
 
 9. Created a table to analyze Lead stage Distribution.
 
@@ -39,6 +39,6 @@
 </h2>
 <br>
 
-![Dashboard 1](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/7319a21f-66a2-4ee6-83da-6f871b991f1b)
 
+![Dashboard 2 (1)](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/67329c78-763f-4709-afad-34aa9b1cb4f5)
 
