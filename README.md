@@ -38,4 +38,7 @@
 <p><img align="left" height=35 width=35 src="https://i.pinimg.com/originals/a2/70/d2/a270d270d5ca184422cf980475b99e24.gif"/></p> Dashboard
 </h2>
 <br>
-![Dashboard 1](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/cd04f100-b907-4333-a54b-8000626f16b2)
+
+![Dashboard 1](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/7319a21f-66a2-4ee6-83da-6f871b991f1b)
+
+
