@@ -39,6 +39,7 @@
 </h2>
 <br>
 
+![Dashboard 2 (1)](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/feebcc5a-a160-46f6-82e6-22ab524fd798)
 
-![Dashboard 2 (1)](https://github.com/Munavar7420/Lead-Analysis-Dashboard/assets/112122147/67329c78-763f-4709-afad-34aa9b1cb4f5)
+
 
